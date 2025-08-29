@@ -21,8 +21,4 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
     }
-
-    public class xyz(){
-
-    }
 }
