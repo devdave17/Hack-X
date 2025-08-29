@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
     }
-public class hello{
+public static class Hello{
         public void print(){
             System.out.println("hello World");
         }
